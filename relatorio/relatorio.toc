@@ -11,6 +11,22 @@
 \contentsline {subsection}{\numberline {3.1}Tabelas e gr\IeC {\'a}ficos}{7}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Tempo total}{7}{subsubsection.3.1.1}
 \contentsline {subsubsection}{\numberline {3.1.2}Tempo de processamento}{9}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}M\IeC {\'e}dias e gr\IeC {\'a}ficos}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}M\IeC {\'e}dias}{11}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}C\IeC {\'a}lculos}{11}{subsubsection.3.2.1}
-\contentsline {section}{\numberline {4}Conclus\IeC {\~a}o}{12}{section.4}
+\contentsline {section}{\numberline {4}C\IeC {\'o}digos Fonte \textit {(.c)}}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Diret\IeC {\'o}rio \textit {commons}}{11}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}\emph {error.c}}{11}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}\emph {common.c}}{12}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}\emph {avl.c}}{13}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}\emph {archives.c}}{17}{subsubsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.5}\emph {tcp.c}}{18}{subsubsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.6}\emph {books.c}}{18}{subsubsection.4.1.6}
+\contentsline {subsubsection}{\numberline {4.1.7}\emph {tempo.c}}{20}{subsubsection.4.1.7}
+\contentsline {subsection}{\numberline {4.2}Diret\IeC {\'o}rio \textit {server}}{22}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}\emph {server.c}}{22}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}\emph {tcp\_server.c}}{22}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}\emph {login.c}}{28}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}Diret\IeC {\'o}rio \textit {client}}{28}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}\emph {client.c}}{28}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}\emph {tcp\_client.c}}{29}{subsubsection.4.3.2}
+\contentsline {section}{\numberline {5}Conclus\IeC {\~a}o}{33}{section.5}
