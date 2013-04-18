@@ -3,7 +3,7 @@
 void printError(int e){
   switch(e){
   case ERROR_SOCKET:
-    perror("socket:: naco foi possivel criar um novo socket\n");
+    perror("socket:: nao foi possivel criar um novo socket\n");
     break;
   case ERROR_SOCKET_CLIENT:
     perror("socket:: nao foi possivel conectar ao cliente\n");
